@@ -1,5 +1,5 @@
 #1.Entre un prix HT
-Tva= 0,19
+Tva= 0.19
 while True:
     prix_ht = float(input("entrez un prix HT ( 0 pour terminer) : "))
     if prix_ht== 0:
