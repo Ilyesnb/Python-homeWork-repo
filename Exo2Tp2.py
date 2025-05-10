@@ -23,7 +23,7 @@ def compter_superieurs_a_10(tab):
     return compteur
 resultat = compter_superieurs_a_10(tab)
 print("Nombre d'element superieurs a 10 :",resultat)      
-#5 valeur maximale du ta    bleau
+#5 valeur maximale du tableau
 def valeur_maximale(tab):
     if not tab:
         return None

@@ -1,13 +1,3 @@
-#Afficher un nombre
-print(15)
-#Affiche une chaine de caractéres
-print("hello world")
-#Affiche une variable
-message = "ceci est un test"
-print(message)
-#2.Passer ou ne pas passer a la ligne
-print("hello",end=" ")
-print("world")
 #boucle
 i=1
 while i< 10 :
